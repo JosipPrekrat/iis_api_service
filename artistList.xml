@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<artists>
+    <artist>
+        <id>1</id>
+        <first_name>Marko</first_name>
+        <last_name>Milić</last_name>
+        <email>marko.milic@gmail.com</email>
+        <username>M_Milic</username>
+        <phone_number>099 992 123</phone_number>
+        <studio_id>1</studio_id>
+        <studio_address>Ul. Milana Ogrizovića 40C</studio_address>
+        <city>Zagreb</city>
+        <studio_name>Papillon Tattoo</studio_name>
+    </artist>
+    <artist>
+        <id>2</id>
+        <first_name>Ivan</first_name>
+        <last_name>Ivic</last_name>
+        <email>ivan.ivic@gmail.com</email>
+        <username>Tattoo by Ivic</username>
+        <phone_number>091 553 3546</phone_number>
+        <studio_id>2</studio_id>
+        <studio_address>Savska cesta 10</studio_address>
+        <city>Zagreb</city>
+        <studio_name>ZELE Tattoo</studio_name>
+    </artist>
+    <artist>
+        <id>3</id>
+        <first_name>Patrik</first_name>
+        <last_name>Stepanic</last_name>
+        <email>pako@gmaič.com</email>
+        <username>pako_</username>
+        <phone_number>092 335 6652</phone_number>
+        <studio_id>3</studio_id>
+        <studio_address>Savska cesta 150</studio_address>
+        <city>Zagreb</city>
+        <studio_name>Brutal Ink - Salon za tetoviranje Zagreb</studio_name>
+    </artist>
+</artists>

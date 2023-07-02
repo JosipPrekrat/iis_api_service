@@ -1,0 +1,11 @@
+<element name="Photo" xmlns="http://relaxng.org/ns/structure/1.0">
+    <element name="url">
+        <text/>
+    </element>
+    <element name="description">
+        <text/>
+    </element>
+    <element name="artist_id">
+        <text />
+    </element>
+</element>
